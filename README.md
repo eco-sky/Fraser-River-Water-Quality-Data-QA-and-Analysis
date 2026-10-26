@@ -81,4 +81,4 @@ The barium investigation focuses on one monitoring site and uses observational d
 
 Environment and Climate Change Canada. *Fraser River Long-term Water Quality Monitoring Data.*
 
-https://open.canada.ca/data/en/dataset/1e0e8033-3113-4297-a813-13ec6f
+[https://open.canada.ca/data/en/dataset/1e0e8033-3113-4297-a813-13ec6f](https://open.canada.ca/data/en/dataset/1e0e8033-3113-4297-a813-13ec6f239039)
